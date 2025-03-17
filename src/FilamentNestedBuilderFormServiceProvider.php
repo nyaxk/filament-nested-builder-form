@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiktak\FilamentNestedBuilderForm;
+namespace Nyaxk\FilamentNestedBuilderForm;
 
 use Filament\Support\Assets\AlpineComponent;
 use Filament\Support\Assets\Asset;
@@ -12,7 +12,7 @@ use Illuminate\Filesystem\Filesystem;
 use Livewire\Features\SupportTesting\Testable;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Thiktak\FilamentNestedBuilderForm\Testing\TestsFilamentNestedBuilderForm;
+use Nyaxk\FilamentNestedBuilderForm\Testing\TestsFilamentNestedBuilderForm;
 
 class FilamentNestedBuilderFormServiceProvider extends PackageServiceProvider
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiktak\FilamentNestedBuilderForm\Forms\Components;
+namespace Nyaxk\FilamentNestedBuilderForm\Forms\Components;
 
 use Closure;
 

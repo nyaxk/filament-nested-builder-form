@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiktak\FilamentNestedBuilderForm;
+namespace Nyaxk\FilamentNestedBuilderForm;
 
 class FilamentNestedBuilderForm
 {

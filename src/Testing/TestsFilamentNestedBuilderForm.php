@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiktak\FilamentNestedBuilderForm\Testing;
+namespace Nyaxk\FilamentNestedBuilderForm\Testing;
 
 use Livewire\Features\SupportTesting\Testable;
 

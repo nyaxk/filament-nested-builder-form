@@ -36,8 +36,8 @@ Note:
 
 ```php
 
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
 // ...
 
         NestedBuilder::make('array_configuration')
@@ -80,8 +80,8 @@ use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
 One concrete example of this package, allow you to create a nested AND/OR field/condition/value like complexe group SQL queries.
 
 ```php
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
 // ...
 
         NestedBuilder::make('array_configuration')
@@ -144,8 +144,8 @@ You can achieve the same behavior with few lines of code.
 Example:
 
 ```php
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
-use Thiktak\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedBuilder;
+use Nyaxk\FilamentNestedBuilderForm\Forms\Components\NestedSubBuilder;
 // ...
 
     public static function form(Form $form): Form
